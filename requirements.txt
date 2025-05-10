@@ -1,0 +1,3 @@
+flask
+selenium
+boto3
